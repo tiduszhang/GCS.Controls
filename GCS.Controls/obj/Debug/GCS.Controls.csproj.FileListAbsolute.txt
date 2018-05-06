@@ -1,0 +1,16 @@
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\bin\Debug\GCS.Controls.dll
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\bin\Debug\GCS.Controls.pdb
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.csprojResolveAssemblyReference.cache
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.AGauge.resources
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.csproj.GenerateResource.cache
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.dll
+C:\Users\apple\source\repos\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.pdb
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\bin\Debug\GCS.Controls.dll
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\bin\Debug\GCS.Controls.pdb
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.csprojResolveAssemblyReference.cache
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\obj\Debug\AGaugeApp.AGauge.resources
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.csproj.GenerateResource.cache
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.csproj.CoreCompileInputs.cache
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.dll
+C:\Users\apple\Desktop\地面站控件\GCS.Controls\GCS.Controls\obj\Debug\GCS.Controls.pdb
